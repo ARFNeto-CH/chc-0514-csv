@@ -1,0 +1,134 @@
+versao 0
+
+1:      [1,Highway to Hell,AC/DC,3:28]  (28)
+
+2:      [2,Walk All Over You,AC/DC,5:09]        (30)
+
+3:      [3,Beating Around The Bush,AC/DC,3:56]  (36)
+
+4:      [4,Get It Hot,AD/DC,2:34]       (23)
+
+5:      [5,Love Hungry Man,AC/DC,4:17]  (28)
+
+
+
+versao 1
+
+1:      [1,Highway to Hell,AC/DC,3:28]  (28)
+Campos: [1]  [Highway to Hell]  [AC/DC]  [3:28]
+
+2:      [2,Walk All Over You,AC/DC,5:09]        (30)
+Campos: [2]  [Walk All Over You]  [AC/DC]  [5:09]
+
+3:      [3,Beating Around The Bush,AC/DC,3:56]  (36)
+Campos: [3]  [Beating Around The Bush]  [AC/DC]  [3:56]
+
+4:      [4,Get It Hot,AD/DC,2:34]       (23)
+Campos: [4]  [Get It Hot]  [AD/DC]  [2:34]
+
+5:      [5,Love Hungry Man,AC/DC,4:17]  (28)
+Campos: [5]  [Love Hungry Man]  [AC/DC]  [4:17]
+
+
+
+versao 2
+
+1:      [1,Highway to Hell,AC/DC,3:28]  (28)
+Campos: [1]  [Highway to Hell]  [AC/DC]  [3:28]
+
+2:      [2,Walk All Over You,AC/DC,5:09]        (30)
+Campos: [2]  [Walk All Over You]  [AC/DC]  [5:09]
+
+3:      [3,Beating Around The Bush,AC/DC,3:56]  (36)
+Campos: [3]  [Beating Around The Bush]  [AC/DC]  [3:56]
+
+4:      [4,Get It Hot,AD/DC,2:34]       (23)
+Campos: [4]  [Get It Hot]  [AD/DC]  [2:34]
+
+5:      [5,Love Hungry Man,AC/DC,4:17]  (28)
+Campos: [5]  [Love Hungry Man]  [AC/DC]  [4:17]
+
+
+Musicas lidas do arquivo CSV
+
+Lista com 5 de 100 elementos MAX
+
+    Primeiro:    1
+      Ultimo:    5
+
+Elementos
+
+       1  Musica-00001 Banda-00001   1:02
+       2  Musica-00002 Banda-00002   2:03
+       3  Musica-00003 Banda-00003   3:04
+       4  Musica-00004 Banda-00004   4:05
+       5  Musica-00005 Banda-00005   5:06
+
+Fim da lista
+
+
+depois de remover o 4
+
+Lista com 4 de 100 elementos MAX
+
+    Primeiro:    1
+      Ultimo:    5
+
+Elementos
+
+       1  Musica-00001 Banda-00001   1:02
+       2  Musica-00002 Banda-00002   2:03
+       3  Musica-00003 Banda-00003   3:04
+       5  Musica-00005 Banda-00005   5:06
+
+Fim da lista
+
+
+depois de remover o primeiro
+
+Lista com 3 de 100 elementos MAX
+
+    Primeiro:    2
+      Ultimo:    5
+
+Elementos
+
+       2  Musica-00002 Banda-00002   2:03
+       3  Musica-00003 Banda-00003   3:04
+       5  Musica-00005 Banda-00005   5:06
+
+Fim da lista
+
+
+depois de remover o ultimo
+
+Lista com 2 de 100 elementos MAX
+
+    Primeiro:    2
+      Ultimo:    3
+
+Elementos
+
+       2  Musica-00002 Banda-00002   2:03
+       3  Musica-00003 Banda-00003   3:04
+
+Fim da lista
+
+
+depois de remover o primeiro
+
+Lista com 1 de 100 elementos MAX
+
+    Primeiro:    3
+      Ultimo:    3
+
+Elementos
+
+       3  Musica-00003 Banda-00003   3:04
+
+Fim da lista
+
+
+depois de remover o primeiro
+
+Lista com 0 de 100 elementos MAX
